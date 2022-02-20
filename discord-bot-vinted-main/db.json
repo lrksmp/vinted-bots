@@ -1,0 +1,11 @@
+{
+  "subscriptions": [
+    {
+      "id": "t1bu7p",
+      "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=79&brand_id[]=53&brand_id[]=304&brand_id[]=88&brand_id[]=14&brand_id[]=2319",
+      "channelID": "916999127940866051"
+    }
+  ],
+  "is_first_sync": false,
+  "last_item_ts_t1bu7p": 1638700689000
+}
